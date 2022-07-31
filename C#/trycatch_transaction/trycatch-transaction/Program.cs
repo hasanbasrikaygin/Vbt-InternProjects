@@ -33,7 +33,7 @@ static bool LogException(Exception ex)
     return false;
 }
 // database baglantisi
-string connectionString = "Data Source=DESKTOP-L2D13KT;Initial Catalog=TransactionDatabase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+string connectionString = "kullanicininDoldurmasiGerekenAlan";
 SqlTransaction transaction = null;
 // transaction hata alinirsa islemi tamamen geri almya yarar 
 // 10 tabloda islem yapiyoruz 8.de hata aldik islemi tamamen geri alir
