@@ -1,0 +1,16 @@
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.exe
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.deps.json
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.runtimeconfig.json
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.runtimeconfig.dev.json
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.dll
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\bin\Debug\net5.0\bellek-yonetimi-2.pdb
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.AssemblyInfo.cs
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.dll
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\refint\bellek-yonetimi-2.dll
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.pdb
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\bellek-yonetimi-2.genruntimeconfig.cache
+C:\Users\OEM\source\repos\bellek-yonetimi-2\bellek-yonetimi-2\obj\Debug\net5.0\ref\bellek-yonetimi-2.dll
