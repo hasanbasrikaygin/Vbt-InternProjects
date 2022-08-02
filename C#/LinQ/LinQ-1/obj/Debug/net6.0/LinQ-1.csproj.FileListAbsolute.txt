@@ -1,0 +1,15 @@
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\bin\Debug\net6.0\LinQ-1.exe
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\bin\Debug\net6.0\LinQ-1.deps.json
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\bin\Debug\net6.0\LinQ-1.runtimeconfig.json
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\bin\Debug\net6.0\LinQ-1.dll
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\bin\Debug\net6.0\LinQ-1.pdb
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.AssemblyInfo.cs
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.dll
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\refint\LinQ-1.dll
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.pdb
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\LinQ-1.genruntimeconfig.cache
+C:\Users\OEM\source\repos\LinQ-1\LinQ-1\obj\Debug\net6.0\ref\LinQ-1.dll
