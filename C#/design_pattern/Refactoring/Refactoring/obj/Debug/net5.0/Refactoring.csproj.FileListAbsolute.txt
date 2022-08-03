@@ -1,0 +1,16 @@
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.exe
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.deps.json
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.runtimeconfig.json
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.runtimeconfig.dev.json
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.dll
+C:\Users\OEM\source\repos\Refactoring\Refactoring\bin\Debug\net5.0\Refactoring.pdb
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.AssemblyInfo.cs
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.dll
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\refint\Refactoring.dll
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.pdb
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\Refactoring.genruntimeconfig.cache
+C:\Users\OEM\source\repos\Refactoring\Refactoring\obj\Debug\net5.0\ref\Refactoring.dll
