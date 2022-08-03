@@ -1,0 +1,16 @@
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.exe
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.deps.json
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.runtimeconfig.json
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.runtimeconfig.dev.json
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.dll
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\bin\Debug\net5.0\InterfaceSegregation.pdb
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.dll
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\refint\InterfaceSegregation.dll
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.pdb
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\InterfaceSegregation.genruntimeconfig.cache
+C:\Users\OEM\source\repos\InterfaceSegregation\InterfaceSegregation\obj\Debug\net5.0\ref\InterfaceSegregation.dll
