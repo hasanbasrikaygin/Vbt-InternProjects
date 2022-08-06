@@ -1,0 +1,30 @@
+<br>
+Ad Soyad ngModel: {{name}} <!-- two way binding, cift scope ile component tarafindaki degiskeni html'de kullanabiliyoruz -->
+<br><br>
+Ad Soyad: <input type="text" [(ngModel)]="name" >
+<br><br>
+Yıl: {{year}}
+<br><br>
+Şimdiki Tarih: {{date}}
+<br><br>
+Boolean: {{bool}}
+<br><br>
+Ad Soyad reactive form: {{ form.controls['nameSurname'].value }} 
+<br><br>
+<form [formGroup]="form"><!-- reactive form kullanilabilmesi icin form tag'i kullanilmalidir -->
+Ad Soyad Reactive Form: <input type="text" formControlName="nameSurname" >
+</form>
+<br><br>
+<!--  <app-product></app-product>   =>   product componenti calismasi icin gerekli tanimlama -->
+Product Model<br>
+------------------<br>
+{{product.nameModel}}
+<br><br>
+Yıl: {{product.year}}
+<br><br>
+Şimdiki Tarih: {{product.date}}
+<br><br>
+Bool: {{product.bool}}
+<br><br><br>
+
+<p>product works!</p>
