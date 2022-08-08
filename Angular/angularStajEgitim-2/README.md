@@ -1,5 +1,13 @@
 # AngularStajEgitim2
 
+### 
+<sub> </sub>
+<img src="https://user-images.githubusercontent.com/56577160/183475958-5b5f59a9-e76e-4175-84f1-388fdc403e43.png" width="900" height="450" />
+
+<sub> </sub>
+<img src="https://user-images.githubusercontent.com/56577160/183476028-2ad17a07-7518-408d-bf3e-9c8a4bba16b3.png" width="900" height="450" />
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
 ## Development server
