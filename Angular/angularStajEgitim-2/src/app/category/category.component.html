@@ -1,0 +1,28 @@
+<div class="row-mt-2">
+    <div class="col">
+      <h4 class="page-header">Kategoriler</h4>
+    </div>
+</div>
+  
+<div class="row-mt-2">
+  <div class="col">
+    <ul class="list-group">   
+
+      <ng-container *ngIf="categories$ | async">
+            <li class = "list-group-item" routerLinkActive="active" routerLink="product"
+                [routerLinkActiveOptions]={exact:true} style="cursor: pointer;">
+                Hepsi
+            </li>
+      </ng-container>
+      
+      <ng-container *ngFor="let category of categories$ | async">
+            <li class = "list-group-item" routerLinkActive="active" routerLink="product/{{category.categoryId}}"
+                style="cursor: pointer;">
+                {{category.categoryName}}
+            </li>
+      </ng-container>
+
+    </ul> 
+  </div>
+</div>
+  
