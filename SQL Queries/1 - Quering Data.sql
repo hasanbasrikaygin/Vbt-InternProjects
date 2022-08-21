@@ -1,7 +1,6 @@
--- SELECT HANGÝ ALANLARI CEKECEGÝMÝZÝ YAZIYORUZ FROM HANGI TABLODAN CEKECEGIMIZI YAZIYORUZ
-
--- Tüm datayý getirmek için
+-- SELECT hangi alanlari cekecegimizi yaziyoruz FROM hangi tablodam cekecegimizi yaziyoruz
+-- Tum datayi getirmek icin
 SELECT * FROM IK_PERSONEL
 
--- Sadece belirtilen alanlarý getirmek için
+-- Sadece belirtilen alanlari getirmek icin
 SELECT ID_PERSONEL, PERSONEL_ADI , PERSONEL_SOYADI FROM IK_PERSONEL
